@@ -41,9 +41,11 @@ windows 处理
 
 2.2. 环境变量
 新增环境变量FFMPEG_HOME，指向解压包目录
+
 ![image](https://user-images.githubusercontent.com/7889062/193176515-d522acbf-7b55-44ed-ba4c-10ef60853ca2.png)
 
 然后在Path中指向bin目录
+
 ![image](https://user-images.githubusercontent.com/7889062/193176565-91d55017-440e-4c2b-b592-a59ca1dcf17f.png)
 
 
